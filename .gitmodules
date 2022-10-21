@@ -1,0 +1,3 @@
+[submodule "maintest"]
+	path = maintest
+	url = https://github.com/saypart/maintest.git
